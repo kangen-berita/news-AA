@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kangen-berita.github.io/news-AA/sitemap.xml
